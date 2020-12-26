@@ -7,6 +7,10 @@
 ###
 ![](snapshots/redshift_snowflake_2.png)
 ###
+![](snapshots/redshift_snowflake_22.png)
+###
+![](snapshots/redshift_snowflake_23.png)
+###
 ![](snapshots/redshift_snowflake_3.png)
 ###
 ![](snapshots/redshift_snowflake_4.png)

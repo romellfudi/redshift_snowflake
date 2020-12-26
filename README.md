@@ -5,9 +5,6 @@
 ![](snapshots/redshift_snowflake_1.png)
 ### After creating it, display all its items from DataFrame
 ![](snapshots/redshift_snowflake_2.png)
-
-### Subsequently, I show its information as to describe each feature/column
-![](snapshots/redshift_snowflake_8.png)
 ### Connect to redshift PaaS by their connection
 ![](snapshots/redshift_snowflake_22.png)
 ### Set AWS Credential Keys
@@ -29,6 +26,9 @@
 ![](snapshots/redshift_snowflake_10.png)
 ### Using snowflake drivers in python, I create DATAWAREHOUSE, DATABASE and SCHEMA
 ![](snapshots/redshift_snowflake_11.png)
+
+### Select 15000 sample rows from redshift database. Subsequently, I show its information as to describe each feature/column
+![](snapshots/redshift_snowflake_8.png)
 ### Pushing the 3 same frames from Redshift to Snowflake
 ![](snapshots/redshift_snowflake_12.png)
 
@@ -60,3 +60,4 @@
 - Transform data, columns and dataframes into tables and dashboard on Snowflake
 - Playing with Pandas: add rows, change dtypes of features, split and concat columns
 - Create the charts of Snowflakes. Unfortunately, so far I don't know how to interactive a chart with each other 
+- Database has default length, it's recommend to set the correct dimension

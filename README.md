@@ -15,8 +15,6 @@
 ###
 ![](snapshots/redshift_snowflake_6.png)
 ###
-![](snapshots/redshift_snowflake_7.png)
-###
 ![](snapshots/redshift_snowflake_8.png)
 ###
 ![](snapshots/redshift_snowflake_9.png)
@@ -42,5 +40,7 @@
 ![](snapshots/redshift_snowflake_19.png)
 ###
 ![](snapshots/redshift_snowflake_20.png)
+###
+![](snapshots/redshift_snowflake_7.png)
 ###
 ![](snapshots/redshift_snowflake_21.png)

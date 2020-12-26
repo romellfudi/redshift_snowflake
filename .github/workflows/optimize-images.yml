@@ -9,8 +9,6 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
-    paths-ignore:
-      - '**.md'
 
 jobs:
   build:

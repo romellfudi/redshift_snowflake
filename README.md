@@ -55,7 +55,8 @@
 
 ## Wrap up!
 - Connect to RedShift(AWS) and Snowflake
+- The fake-data consist of 100000 rows. Nonetheless, snowflake free has almost reached the limit of 1500 rows
 - Handle with data with python
 - Transform data, columns and dataframes into tables and dashboard on Snowflake
 - Playing with Pandas: add rows, change dtypes of features, split and concat columns
-- Create the charts of Snowflakes. Unfurtunately, so far I don't know how to interactive a chart with each other 
+- Create the charts of Snowflakes. Unfortunately, so far I don't know how to interactive a chart with each other 

@@ -1,9 +1,9 @@
 # redshift_snowflake_sample
-### To begin with creating an account on AWS & Snowlake plataforms (Freemium)
+### Begin with creating an account on AWS & Snowlake plataforms (Freemium)
 
 ### Initially, make a fake data-set
 ![](snapshots/redshift_snowflake_1.png)
-### After creating it, display all its items from DataFrame
+### Creating displaying all items from DataFrame
 ![](snapshots/redshift_snowflake_2.png)
 ### Connect to redshift PaaS by their connection
 ![](snapshots/redshift_snowflake_22.png)
@@ -14,11 +14,11 @@
 #### The redshift was built, and loaded with 3 dataFrames with an 'Unique code' in common
 ![](snapshots/redshift_snowflake_6.png)
 
-#### Update the tables to redshift
+### Update the citizens to redshift
 ![](snapshots/redshift_snowflake_3.png)
-
+### Update the address to redshift
 ![](snapshots/redshift_snowflake_4.png)
-
+### Update the health_care to redshift
 ![](snapshots/redshift_snowflake_5.png)
 ### Having uploaded the whole data to AWS Redshift, I connected to it, made queries, and joined to single table in order to data validation
 ![](snapshots/redshift_snowflake_9.png)
@@ -46,11 +46,11 @@
 ![](snapshots/redshift_snowflake_17.png)
 ### Loading Australian Dashboard using Worsheets
 ![](snapshots/redshift_snowflake_19.png)
-### BarCharts and LineCharts
+### Using BarCharts and LineCharts
 ![](snapshots/redshift_snowflake_20.png)
-### Scorecards
+### Using Scorecards
 ![](snapshots/redshift_snowflake_7.png)
-### HeatGrids
+### Using HeatGrids
 ![](snapshots/redshift_snowflake_21.png)
 
 ## Wrap up!

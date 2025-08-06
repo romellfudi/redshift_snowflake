@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_jry5abjry5abjry5](https://github.com/user-attachments/assets/72ecec2d-7ee8-4678-b485-3002a2630c3e)
+
 # redshift_snowflake_sample
 ### Begin with creating an account on AWS & Snowlake plataforms (Freemium)
 
